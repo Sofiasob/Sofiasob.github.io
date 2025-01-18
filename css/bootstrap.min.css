@@ -1589,7 +1589,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-    color: #ff9a9e
+    color: #EBDECF
 }
 
 a.text-info:hover, a.text-info:focus {
@@ -3573,7 +3573,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-info {
     color: #ffffff;
-    background-color: #ff9a9e;
+    background-color: #EBDECF;
     border-color: transparent
 }
 
@@ -3606,12 +3606,12 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 
 .btn-info.disabled:hover, .btn-info[disabled]:hover, fieldset[disabled] .btn-info:hover, .btn-info.disabled:focus, .btn-info[disabled]:focus, fieldset[disabled] .btn-info:focus, .btn-info.disabled.focus, .btn-info[disabled].focus, fieldset[disabled] .btn-info.focus {
-    background-color: #ff9a9e;
+    background-color: #EBDECF;
     border-color: transparent
 }
 
 .btn-info .badge {
-    color: #ff9a9e;
+    color: #EBDECF;
     background-color: #ffffff
 }
 
@@ -5283,7 +5283,7 @@ a.label:hover, a.label:focus {
 }
 
 .label-info {
-    background-color: #ff9a9e
+    background-color: #EBDECF
 }
 
 .label-info[href]:hover, .label-info[href]:focus {
@@ -5485,7 +5485,7 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
 .alert-info {
     background-color: #e1bee7;
     border-color: #cba4dd;
-    color: #ff9a9e
+    color: #EBDECF
 }
 
 .alert-info hr {
@@ -5602,7 +5602,7 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
 }
 
 .progress-bar-info {
-    background-color: #ff9a9e
+    background-color: #EBDECF
 }
 
 .progress-striped .progress-bar-info {
@@ -5785,12 +5785,12 @@ a.list-group-item-success.active, button.list-group-item-success.active, a.list-
 }
 
 .list-group-item-info {
-    color: #ff9a9e;
+    color: #EBDECF;
     background-color: #e1bee7
 }
 
 a.list-group-item-info, button.list-group-item-info {
-    color: #ff9a9e
+    color: #EBDECF
 }
 
 a.list-group-item-info .list-group-item-heading, button.list-group-item-info .list-group-item-heading {
@@ -5798,14 +5798,14 @@ a.list-group-item-info .list-group-item-heading, button.list-group-item-info .li
 }
 
 a.list-group-item-info:hover, button.list-group-item-info:hover, a.list-group-item-info:focus, button.list-group-item-info:focus {
-    color: #ff9a9e;
+    color: #EBDECF;
     background-color: #d8abe0
 }
 
 a.list-group-item-info.active, button.list-group-item-info.active, a.list-group-item-info.active:hover, button.list-group-item-info.active:hover, a.list-group-item-info.active:focus, button.list-group-item-info.active:focus {
     color: #fff;
-    background-color: #ff9a9e;
-    border-color: #ff9a9e
+    background-color: #EBDECF;
+    border-color: #EBDECF
 }
 
 .list-group-item-warning {
@@ -6125,7 +6125,7 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
 
 .panel-info > .panel-heading {
     color: #ffffff;
-    background-color: #ff9a9e;
+    background-color: #EBDECF;
     border-color: #cba4dd
 }
 
@@ -6134,7 +6134,7 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
 }
 
 .panel-info > .panel-heading .badge {
-    color: #ff9a9e;
+    color: #EBDECF;
     background-color: #ffffff
 }
 
@@ -7337,7 +7337,7 @@ button.close {
 }
 
 .btn-info:focus {
-    background-color: #ff9a9e
+    background-color: #EBDECF
 }
 
 .btn-info:hover, .btn-info:active:hover {
@@ -7346,9 +7346,9 @@ button.close {
 
 .btn-info:active {
     background-color: #701c7e;
-    background-image: -webkit-radial-gradient(circle, #701c7e 10%, #ff9a9e 11%);
-    background-image: -o-radial-gradient(circle, #701c7e 10%, #ff9a9e 11%);
-    background-image: radial-gradient(circle, #701c7e 10%, #ff9a9e 11%);
+    background-image: -webkit-radial-gradient(circle, #701c7e 10%, #EBDECF 11%);
+    background-image: -o-radial-gradient(circle, #701c7e 10%, #EBDECF 11%);
+    background-image: radial-gradient(circle, #701c7e 10%, #EBDECF 11%);
     background-repeat: no-repeat;
     -webkit-background-size: 1000% 1000%;
     background-size: 1000%;
@@ -7794,7 +7794,7 @@ input[type="checkbox"]:disabled:checked:after, .checkbox input[type="checkbox"]:
 }
 
 .alert-info {
-    background-color: #ff9a9e
+    background-color: #EBDECF
 }
 
 .alert-warning {
