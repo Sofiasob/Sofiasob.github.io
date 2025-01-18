@@ -18,6 +18,10 @@ a:hover {
     color: #EBDECF;
 }
 
+.btn-info-is:hover, .btn-info-is:active{
+    background-color: #EBDECF;
+}
+
 .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn.focus:active, .btn.active.focus {
     outline: none;
     outline-offset: 0px;
